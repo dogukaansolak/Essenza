@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Sauvage",
+    "brand": "Dior",
+    "image": "assets/images/sauvage.jpg",
+    "price": 120,
+    "category": "Men",
+    "description": "Fresh and powerful fragrance with bergamot and amber notes."
+  },
+  {
+    "name": "Black Opium",
+    "brand": "YSL",
+    "image": "assets/images/black_opium.jpg",
+    "price": 110,
+    "category": "Women",
+    "description": "Sweet coffee and vanilla fragrance with a sensual character."
+  },
+  {
+    "name": "Aventus",
+    "brand": "Creed",
+    "image": "assets/images/Aventus.jpg",
+    "price": 300,
+    "category": "Men",
+    "description": "Luxury fragrance with pineapple and smoky birch notes."
+  },
+  {
+    "name": "Noir Extreme",
+    "brand": "Tom Ford",
+    "image": "assets/images/noir_extreme.jpg",
+    "price": 210,
+    "category": "Men",
+    "description": "A warm and spicy fragrance with cardamom, amber, and vanilla."
+  },
+  {
+    "name": "Coco Mademoiselle",
+    "brand": "Chanel",
+    "image": "assets/images/coco_mademoiselle.webp",
+    "price": 180,
+    "category": "Women",
+    "description": "Elegant citrus and patchouli notes with a timeless feminine signature."
+  },
+  {
+    "name": "Acqua di Gio",
+    "brand": "Armani",
+    "image": "assets/images/acqua_di_gio.webp",
+    "price": 135,
+    "category": "Men",
+    "description": "A fresh marine fragrance with citrus, jasmine, and woody accords."
+  },
+  {
+    "name": "Paradoxe",
+    "brand": "Prada",
+    "image": "assets/images/paradoxe.webp",
+    "price": 165,
+    "category": "Women",
+    "description": "A floral amber fragrance blending neroli, musk, and warm sweetness."
+  },
+  {
+    "name": "Eros",
+    "brand": "Versace",
+    "image": "assets/images/eros.webp",
+    "price": 145,
+    "category": "Men",
+    "description": "Bold mint, vanilla, and tonka bean notes for a seductive signature."
+  },
+  {
+    "name": "Libre",
+    "brand": "YSL",
+    "image": "assets/images/libre.avif",
+    "price": 155,
+    "category": "Women",
+    "description": "Lavender, orange blossom, and musk create a strong modern floral scent."
+  },
+  {
+    "name": "CK One",
+    "brand": "Calvin Klein",
+    "image": "assets/images/ck_one.jpg",
+    "price": 95,
+    "category": "Unisex",
+    "description": "A clean and refreshing unisex fragrance with citrus and green tea."
+  }
+
+]
